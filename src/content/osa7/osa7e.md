@@ -208,7 +208,7 @@ Javascriptin muuttujien [dynaaminen tyypitys](https://developer.mozilla.org/en-U
 
 Viime aikoina on ollut havaittavissa nousevaa kiinnostusta [staattiseen tyypitykseen](https://en.wikipedia.org/wiki/Type_system#Static_type_checking).
 
-Javascriptistä on olemassa useita staattisesti tyypitettyjä versioita, suosituimmat näistä ovat Facebookin kehittämä [flow](https://flow.org/) ja Microsofin [Typescript](https://www.typescriptlang.org/). Vaakakuppi näyttää kallistuneen selkeästi Typescriptin puolelle, mm sen tarjoaman hyvän VS Code -integraation takia.
+Javascriptistä on olemassa useita staattisesti tyypitettyjä versioita, suosituimmat näistä ovat Facebookin kehittämä [flow](https://flow.org/), Microsofin [Typescript](https://www.typescriptlang.org/). Vaakakuppi näyttää kallistuneen selkeästi Typescriptin puolelle, mm sen tarjoaman hyvän VS Code -integraation takia. Facebookin kehittämä [ReasonML](https://reasonml.github.io/) tuntuu olevan myös kasvattamassa suosiotaan, koska se tarjoaa hyvät työkalut [React-kehittämiseen](https://reasonml.github.io/reason-react/en/). 
 
 Typescriptissä voidaan esim. funktion parametreille ja paluuarvolle asettaa tyypit:
 
